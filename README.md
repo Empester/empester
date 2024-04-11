@@ -6,9 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=true&width=435&lines=Buna+ziua!;Greetings!;Hello!)](https://git.io/typing-svg)
 
-<a href="https://discord.com/users/821755569248403487"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/1135128375225225256?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117&idleMessage=Playing%20with%20Rem%20"></a>
-
-
 ### Greetings! I'm **`Empester`** aka `EmpDev`
 
 **Python Student** 
@@ -23,7 +20,6 @@ My name's Empester, I love coding ( sometimes ) and play fun games, like War Thu
 Not much of it. I barely started. But I am working as a Bot Developer for **Rem**
 
 ## ** Github Stats**
-<!-- <div><a href="https://github.com/kiyoopoon"><img width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004077621125240/105017051_p13.png"></a><div> -->
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=kiyoopoon&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiyoopoon&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
 </p>
 
@@ -50,8 +46,6 @@ Not much of it. I barely started. But I am working as a Bot Developer for **Rem*
 </p>
 
 ## **🍰 Cutie Counter**
-<!-- <p align="center">
-	<img src="https://moe-counter.glitch.me/get/@kiyoopoon?theme=moebooru-h"> <br/>
 </p> -->
 <a href="https://discord.com/users/1135128375225225256"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@kiyoopoon?theme=rule34"></a>
 <a href="https://github.com/kiyoopoon"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1130676248843137035/105634085_p12.png"></a>
