@@ -4,9 +4,9 @@
 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Konichiwa+%3A3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=true&width=435&lines=Buna+ziua!;Greetings!;Hello!)](https://git.io/typing-svg)
 
-<a href="https://discord.com/users/1135128375225225256"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/1135128375225225256?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117&idleMessage=Playing%20with%20Rem%20"></a>
+<a href="https://discord.com/users/821755569248403487"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/1135128375225225256?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117&idleMessage=Playing%20with%20Rem%20"></a>
 
 
 ### Greetings! I'm **`Empester`** aka `EmpDev`
