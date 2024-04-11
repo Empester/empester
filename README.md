@@ -13,11 +13,14 @@
 ## **About me**
 <a href="https://github.com/empester"><img align="left" width="100"></a>
 My name's Empester, I love coding ( sometimes ) and play fun games, like War Thunder. I live in Romania 🇷🇴
+I plan on learning Python, HTML, CSS and JS! 
 <br><br><br>
 
 ## **Experience**
 <a href="https://github.com/kiyoopoon"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004173414830210/105017051_p9.png"></a>
 Not much of it. I barely started. But I am working as a Bot Developer for **Rem**
+
+( always looking for opportunities to work with others )
 
 ## **Github Stats**
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=kiyoopoon&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiyoopoon&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
