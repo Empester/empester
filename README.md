@@ -47,8 +47,8 @@ Not much of it. I barely started. But I am working as a Bot Developer for **Rem*
 
 ## **🍰 Cutie Counter**
 </p> -->
-<a href="https://discord.com/users/1135128375225225256"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@kiyoopoon?theme=rule34"></a>
-<a href="https://github.com/kiyoopoon"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1130676248843137035/105634085_p12.png"></a>
+<a href="https://discord.com/users/821755569248403487"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@empester?theme=rule34"></a>
+<a href="https://github.com/empester"><img align="left" width="100" src=""></a>
 
 ```yaml
 People who visit my profile :D
