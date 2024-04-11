@@ -13,7 +13,7 @@
 
 **Python Student** 
 
-## ** About me**
+## **About me**
 <a href="https://github.com/kiyoopoon"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004207468380240/105017051_p12.png"></a>
 My name's Empester, I love coding ( sometimes ) and play fun games, like War Thunder. I live in Romania 🇷🇴
 <br><br><br>
