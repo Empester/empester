@@ -19,11 +19,11 @@ My name's Empester, I love coding ( sometimes ) and play fun games, like War Thu
 <a href="https://github.com/kiyoopoon"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004173414830210/105017051_p9.png"></a>
 Not much of it. I barely started. But I am working as a Bot Developer for **Rem**
 
-## ** Github Stats**
+## **Github Stats**
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=kiyoopoon&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiyoopoon&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
 </p>
 
-## ** Used Technologies**
+## **Used Technologies**
 <p align="center">
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
