@@ -57,7 +57,6 @@ Another cutie has been caught
 ```
 <!-- <br><br><br><br> -->
 ## **📫 Contact**
-<a href="https://github.com/kiyoopoon"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004133136945233/105017051_p3.png" /></a>
 **Discord - [Empester](https://discord.com/users/821755569248403487)**
 
 **Consider hiring me as a staff team, dm for more details**
