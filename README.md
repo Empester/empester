@@ -21,9 +21,6 @@ Not much of it. I barely started. But I am working as a Bot Developer for **Rem*
 
 ( always looking for opportunities to work with others )
 
-## **Github Stats**
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=kiyoopoon&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiyoopoon&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
-</p>
 
 ## **Used Technologies**
 <p align="center">
