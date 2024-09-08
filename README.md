@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=true&width=435&lines=Buna+ziua!;Greetings!;Hello!)](https://git.io/typing-svg)
 
-### Greetings! I'm **`Empester`** aka `EmpDev`
+### Greetings! I'm **`Empester`** aka `Shoka`
 
 **Python Student** 
 
@@ -17,7 +17,9 @@ I plan on learning Python, HTML, CSS and JS!
 <br><br><br>
 
 ## **Experience**
-Not much of it. I barely started. But I am working as a Bot Developer for **Rem**
+**Rem** Developer
+**Kumono** Lead Developer
+**Basket+** Leader Developer
 
 ( always looking for opportunities to work with others )
 
@@ -26,8 +28,6 @@ Not much of it. I barely started. But I am working as a Bot Developer for **Rem*
 <p align="center">
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="facebook logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
@@ -42,20 +42,11 @@ Not much of it. I barely started. But I am working as a Bot Developer for **Rem*
 </div>
 </p>
 
-## **🍰 Cutie Counter**
-</p> -->
-<a href="https://discord.com/users/821755569248403487"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@empester?theme=rule34"></a>
 
-```yaml
-People who visit my profile :D
-
-Another cutie has been caught
-```
-<!-- <br><br><br><br> -->
 ## **📫 Contact**
 **Discord - [Empester](https://discord.com/users/821755569248403487)**
 
-**Consider hiring me as a staff team, dm for more details**
+**Consider hiring me! DM for more details**
 
 [![](https://img.shields.io/github/followers/empester?label=Followers&style=social)](https://github.com/empester)
 [![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/users/821755569248403487)
