@@ -18,11 +18,9 @@ I plan on learning Python, HTML, CSS and JS!
 
 ## **Experience**
 
-**Rem** Developer
-
-**Kumono** Lead Developer
-
-**Basket+** Leader Developer
+**Rem** Developer, 
+**Kumono** Lead Developer, 
+**Basket+** Leader Developer, 
 
 ( always looking for opportunities to work with others )
 
