@@ -6,21 +6,17 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=true&width=435&lines=Buna+ziua!;Greetings!;Hello!)](https://git.io/typing-svg)
 
-### Greetings! I'm **`Empester`** aka `Shoka`
+### Greetings! I'm **`Empester`**
 
 **Python Student** 
 
 ## **About me**
 <a href="https://github.com/empester"><img align="left" width="100"></a>
 My name's Empester, I love coding ( sometimes ) and play fun games, like War Thunder. I live in Romania 🇷🇴
-I plan on learning Python, HTML, CSS and JS! 
+I'm currently learning Python, HTML and CSS. Planning on learning Reflex for web development.
 <br><br><br>
 
-## **Experience**
 
-**Rem** Developer, 
-**Kumono** Lead Developer, 
-**Basket+** Leader Developer. 
 
 ( always looking for opportunities to work with others )
 
