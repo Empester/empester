@@ -47,4 +47,4 @@ I'm currently learning Python, HTML and CSS. Planning on learning Reflex for web
 
 [![](https://img.shields.io/github/followers/empester?label=Followers&style=social)](https://github.com/empester)
 [![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/users/821755569248403487)
-[![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:empesterz@gmail.com)
+
