@@ -8,17 +8,11 @@
 
 ### Greetings! I'm **`Empester`**
 
-**Python Student** 
-
 ## **About me**
 <a href="https://github.com/empester"><img align="left" width="100"></a>
-My name's Empester, I love coding ( sometimes ) and play fun games, like War Thunder. I live in Romania 🇷🇴
-I'm currently learning Python, HTML and CSS. Planning on learning Reflex for web development.
+My name's Empester, I love coding ( sometimes ) and play fun games, like War Thunder. 
+
 <br><br><br>
-
-
-
-( always looking for opportunities to work with others )
 
 
 ## **Used Technologies**
